@@ -1,0 +1,1 @@
+To develop an understanding of the various aspects of data communications and computer networking systems. Topics include: data transmission, multiplexing, switching, protocols and architecture, internetworking and ISDN.

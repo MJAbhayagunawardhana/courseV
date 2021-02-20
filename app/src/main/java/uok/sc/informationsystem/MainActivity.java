@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Picasso.get()
-                .load("https://www.vectorstock.com/royalty-free-vector/book-education-university-logo-vector-19952793.jpg")
+                .load("https://en.wikipedia.org/wiki/University_of_Kelaniya#/media/File:Kelaniya.png")
                 .into((ImageView) findViewById(R.id.uni_image));
     }
 

@@ -12,7 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.InformationSystem"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Registration"></activity>
+        <activity android:name=".MoreActivity"></activity>
+        <activity android:name=".courseDetailsActivity" />
+        <activity android:name=".courseActivity" />
+        <activity android:name=".Registration" />
         <activity android:name=".Login" />
         <activity android:name=".MainActivity">
             <intent-filter>
